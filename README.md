@@ -4,9 +4,9 @@ Se trata de um simulador de uma máquina simples, com processadores e memória r
 Realiza operações simples
 
 # Instruções de compilação
-'''bash
+```bash
 gcc *.c -o exe -lm
-'''
-'''bash
+```
+```bash
 ./exe
-'''
+```
